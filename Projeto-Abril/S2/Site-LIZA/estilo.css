@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/*
+    Paleta de cores a utilizar:
+    .color1 { #fccc04 };
+    .color2 { #fcfc71 };
+    .color3 { #b8970c };
+    .color4 { #6c9464 };
+    .color5 { #bcac8c };
+*/
+
+body {
+    background-color: #fcfc71;
+    padding: 20px;
+}
+
+header {
+    padding: 0px;
+    background-color: #bcac8c;
+    color: #205b14;
+    
+}
